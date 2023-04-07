@@ -16,7 +16,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.5.1
+
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v2.4.1
+        with:
+          node-version: '16.x'
 
       - name: Generate snake.svg
         uses: Platane/snk@v2
