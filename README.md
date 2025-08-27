@@ -1,95 +1,138 @@
-# Akshay Ashok Moolya
-
-> Software Developer from Mumbai, India
-
-## About
-
-I'm a passionate software developer with expertise in building scalable web applications and modern digital solutions. With over a year of experience in full-stack development, I specialize in creating responsive, feature-rich applications that deliver exceptional user experiences. Currently focused on expanding my skills across the entire technology stack while maintaining a strong foundation in modern web technologies.
-
-- 🔭 Working as a Software Developer
-- 🌱 Continuously learning and exploring new technologies
-- 🚀 Passionate about building scalable and efficient solutions
-- 📍 Based in Mumbai, India
-- 📫 Contact: akshaymoolya88@gmail.com
-
-## Tech Stack I'm passionate about
-
-<p align="left">
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-    </a>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-    </a>
-</p>
-
-## Tools & Technologies
-
-<p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-    </a>
-</p>
-
-## Development Stack
-
-\`\`\`
-Frontend     : React, Next.js, TypeScript, JavaScript, HTML5, CSS3
-Backend      : Node.js, Express.js, Python Flask, Java
-Database     : MongoDB, MySQL
-Cloud        : AWS (EC2, Cognito)
-DevOps       : Docker, Git
-Styling      : Tailwind CSS, Bootstrap, Sass
-Tools        : VS Code, Figma, Postman
-\`\`\`
-
-## GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshayMoolya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=AkshayMoolya&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Akshay+👋;Software+Developer+from+Mumbai;Building+Amazing+Web+Applications;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshayMoolya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" height="200" alt="languages graph" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
 
-## Connect with me
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Akshay Ashok Moolya
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-moolya-735364238/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:akshaymoolya88@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/AkshayMoolya)
+<h3 align="center">🚀 Software Developer | 💻 Full Stack Enthusiast | 🌟 Problem Solver</h3>
+
+<div align="center">
+  <img src="https://komarev.com/github-profile-views?username=AkshayMoolya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AkshayMoolya?label=Followers&style=social" alt="GitHub followers" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+```javascript
+const akshay = {
+    location: "Mumbai, India 🇮🇳",
+    role: "Software Developer",
+    currentFocus: "Building scalable web applications",
+    passion: "Creating exceptional user experiences",
+    learning: "Always exploring new technologies",
+    contact: "akshaymoolya88@gmail.com"
+};
+
+console.log("Welcome to my GitHub profile! 🎉");
+```
+
+- 🔭 Currently working as a **Software Developer**
+- 🌱 Continuously learning and exploring **new technologies**
+- 🚀 Passionate about building **scalable and efficient solutions**
+- 💡 Love to solve **complex problems** with elegant code
+- 📍 Based in **Mumbai, India**
+- 📫 Reach me at: **akshaymoolya88@gmail.com**
+- ⚡ Fun fact: I turn **coffee into code** ☕
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tech Stack & Tools
+
+<div align="center">
+
+### 🚀 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Technologies  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
+</p>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> My Development Environment
+
+```yaml
+OS: Windows 11
+Editor: VS Code with extensions
+Terminal: Windows Terminal with PowerShell
+Version Control: Git & GitHub
+Design: Figma
+API Testing: Postman
+Containerization: Docker
+Cloud: AWS (EC2, Cognito)
+```
+
+---
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshayMoolya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayMoolya&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayMoolya&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayMoolya&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-moolya-735364238/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaymoolya88@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayMoolya)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AkshayMoolya.AkshayMoolya&right_color=blue&left_text=Profile%20Views" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-![snake gif](https://github.com/AkshayMoolya/AkshayMoolya/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<div align="center">
+  <h3>Thanks for visiting! 😊</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+</div>
