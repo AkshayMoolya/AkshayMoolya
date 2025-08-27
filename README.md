@@ -15,7 +15,6 @@
 <h3 align="center">🚀 Software Developer | 💻 Full Stack Enthusiast | 🌟 Problem Solver</h3>
 
 <div align="center">
-  <img src="https://komarev.com/github-profile-views?username=AkshayMoolya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AkshayMoolya?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
@@ -92,11 +91,6 @@ Cloud: AWS (EC2, Cognito)
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshayMoolya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayMoolya&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayMoolya&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
@@ -110,7 +104,7 @@ Cloud: AWS (EC2, Cognito)
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshay33.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-moolya-735364238/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaymoolya88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshayMoolya)
